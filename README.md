@@ -1,3 +1,19 @@
+### Fazer dowload / npm install / npm rum dev
+
+
+### Link You tube
+https://www.youtube.com/watch?v=jnm0_U6zJFY&ab_channel=CagatayCivici
+
+### Link Preview
+https://sakai.primereact.org/
+
+
+
+
+![sakai template](https://github.com/FelipeXavier99/Template-sakai-react/assets/127893679/4ffb0b44-d3a9-4095-83c4-66d2c269ba8d)
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -6,13 +22,7 @@ Sakai is an application template for Next.js based on the popular Next.js framew
 
 First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
